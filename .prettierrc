@@ -9,6 +9,6 @@
   "arrowParens": "always",
   "singleAttributePerLine": true,
   "endOfLine": "lf",
-  "importOrder": ["^react(.*)$", "<THIRD_PARTY_MODULES>", "^@/(.*)$", "^[./]"],
+  "importOrder": ["^vue(.*)$", "<THIRD_PARTY_MODULES>", "^@/(.*)$", "^[./]"],
   "plugins": ["@trivago/prettier-plugin-sort-imports"]
 }
